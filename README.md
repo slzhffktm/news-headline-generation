@@ -13,13 +13,14 @@ News headline generation using news body.
 ## Dataset
 
 - News headline dataset for sarcasm detection
-- News body scraped from [TheOnoin](https://theonion.com) and [HuffPost](https://www.huffingtonpost.com/)
+- News body scraped from [TheOnoin](https://theonion.com) and [HuffingtonPost](https://www.huffingtonpost.com/)
 
 ## Future Works
 
 - Using beam search instead of greedy search
 - Try different parameters
 - Minimize the computation cost
+- Use larger dataset
 
 ## Acknowledgement
 
