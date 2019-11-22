@@ -1,4 +1,4 @@
-# news-headline-generation
+# News Headline Generation
 
 News headline generation using news body.
 
